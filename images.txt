@@ -8,3 +8,4 @@ docker.swagger.io/swaggerapi/swagger-editor
 redis:alpine
 mysql:8.0
 alpine:latest
+docker.n8n.io/n8nio/n8n:latest
